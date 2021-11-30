@@ -1,0 +1,12 @@
+.largura{
+  width: 252px;
+  margin-bottom: 15px;
+}
+
+img{
+  height: 200px;
+  min-width: 250px;
+  max-width: 250px;
+}
+
+
